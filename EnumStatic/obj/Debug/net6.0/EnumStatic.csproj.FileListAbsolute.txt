@@ -1,0 +1,15 @@
+C:\Users\rusla\source\repos\EnumStatic\EnumStatic\bin\Debug\net6.0\EnumStatic.exe
+C:\Users\rusla\source\repos\EnumStatic\EnumStatic\bin\Debug\net6.0\EnumStatic.deps.json
+C:\Users\rusla\source\repos\EnumStatic\EnumStatic\bin\Debug\net6.0\EnumStatic.runtimeconfig.json
+C:\Users\rusla\source\repos\EnumStatic\EnumStatic\bin\Debug\net6.0\EnumStatic.dll
+C:\Users\rusla\source\repos\EnumStatic\EnumStatic\bin\Debug\net6.0\EnumStatic.pdb
+C:\Users\rusla\source\repos\EnumStatic\EnumStatic\obj\Debug\net6.0\EnumStatic.csproj.AssemblyReference.cache
+C:\Users\rusla\source\repos\EnumStatic\EnumStatic\obj\Debug\net6.0\EnumStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\source\repos\EnumStatic\EnumStatic\obj\Debug\net6.0\EnumStatic.AssemblyInfoInputs.cache
+C:\Users\rusla\source\repos\EnumStatic\EnumStatic\obj\Debug\net6.0\EnumStatic.AssemblyInfo.cs
+C:\Users\rusla\source\repos\EnumStatic\EnumStatic\obj\Debug\net6.0\EnumStatic.csproj.CoreCompileInputs.cache
+C:\Users\rusla\source\repos\EnumStatic\EnumStatic\obj\Debug\net6.0\EnumStatic.dll
+C:\Users\rusla\source\repos\EnumStatic\EnumStatic\obj\Debug\net6.0\refint\EnumStatic.dll
+C:\Users\rusla\source\repos\EnumStatic\EnumStatic\obj\Debug\net6.0\EnumStatic.pdb
+C:\Users\rusla\source\repos\EnumStatic\EnumStatic\obj\Debug\net6.0\EnumStatic.genruntimeconfig.cache
+C:\Users\rusla\source\repos\EnumStatic\EnumStatic\obj\Debug\net6.0\ref\EnumStatic.dll
